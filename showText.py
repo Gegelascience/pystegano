@@ -39,5 +39,5 @@ def getMsgFromColor(filePath, colorSearch):
     return msg
 
 if __name__ == "__main__":
-    msg = getMsgFromColor("./test.png", "red")
+    msg = getMsgFromColor("./derriere_pierre_rosette.png", "red")
     print(msg)
